@@ -1,0 +1,11 @@
+INSTRUCTIONS
+-------------
+1.You need to carry out the exercises for the different stages listed at the link given at point (5) for eXperimental Operating System (eXpOS). You will need to read the required documentation as mentioned at each stage.
+
+2.The stages that we will consider in the course CS 377 are: Stages 1-7. 
+
+3. A "Team Report" needs to be submitted for stages 1-7. TYour report should clearly mention each question under different stages and the corresponding answer. Code and output of code should be provided as and when required in a question.
+
+4. Link for eXpOS: http://exposnitc.github.io/Roadmap.html
+
+------------------------------------------------------------------
